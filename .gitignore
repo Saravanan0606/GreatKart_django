@@ -25,6 +25,7 @@ credentials.txt
 *.so
 
 # Distribution / packaging
+.env
 .Python
 build/
 develop-eggs/
